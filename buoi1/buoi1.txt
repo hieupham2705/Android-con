@@ -1,0 +1,4 @@
+Tìm hiểu về LinearLayout, ConstrainLayout
+Tìm hểu về Text, EditText
+Tìm hiểu về Button, CheckBox, RadioButton, Switch
+Tìm hiểu về ImageView
